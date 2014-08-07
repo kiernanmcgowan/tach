@@ -1,7 +1,7 @@
 {
   "name": "tach",
   "description": "Utility module to detect if a thread is blocked",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "scripts": {
     "test": "node_modules/.bin/jasmine-node --captureExceptions test/"
   },
