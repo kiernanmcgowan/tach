@@ -2,6 +2,11 @@
   "name": "tach",
   "description": "Utility module to detect if a thread is blocked",
   "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dropdownmenu/tach.git"
+  },
   "scripts": {
     "test": "node_modules/.bin/jasmine-node --captureExceptions test/"
   },
