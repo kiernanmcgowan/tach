@@ -1,6 +1,8 @@
 tach
 ===
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kiernanmcgowan/tach.svg)](https://greenkeeper.io/)
+
 Utility function to detect if a script is blocking longer that a certain period of time. Useful when working with socket.io to make sure that heartbeats can continue to flow. Intended for debugging use only.
 
 ```
